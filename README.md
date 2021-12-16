@@ -1,7 +1,7 @@
 ##Tindog
 
-It's was built using HTML5 & CSS3
+It was built using HTML5 & CSS3
 
 Frameworks used Bootstrap4
 
-Website was user-froendly and Responsive
+Website was user-friendly and Responsive
